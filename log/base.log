@@ -1,0 +1,33 @@
+2020-07-03 13:54:21,722 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on DESKTOP-HEVKOGR with PID 16504 (D:\projet\demoredis\target\classes started by 123 in D:\projet\demoredis)
+2020-07-03 13:54:21,724 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-03 13:54:21,725 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-07-03 14:22:40,042 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on DESKTOP-HEVKOGR with PID 26440 (D:\projet\demoredis\target\classes started by 123 in D:\projet\demoredis)
+2020-07-03 14:22:40,044 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-03 14:22:40,045 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-07-03 14:33:03,890 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on DESKTOP-HEVKOGR with PID 23156 (D:\projet\demoredis\target\classes started by 123 in D:\projet\demoredis)
+2020-07-03 14:33:03,892 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-03 14:33:03,893 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-07-03 14:50:28,036 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on DESKTOP-HEVKOGR with PID 23300 (D:\projet\demoredis\target\classes started by 123 in D:\projet\demoredis)
+2020-07-03 14:50:28,040 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-03 14:50:28,041 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-07-03 15:06:31,589 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on DESKTOP-HEVKOGR with PID 22076 (D:\projet\demoredis\target\classes started by 123 in D:\projet\demoredis)
+2020-07-03 15:06:31,592 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-03 15:06:31,593 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-07-03 15:10:42,337 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on DESKTOP-HEVKOGR with PID 23772 (D:\projet\demoredis\target\classes started by 123 in D:\projet\demoredis)
+2020-07-03 15:10:42,342 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-03 15:10:42,343 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-07-03 15:10:44,643 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 2.878 seconds (JVM running for 4.002)
+2020-07-03 15:11:04,713 DEBUG (StringRedisController.java:35)- 访问set:key=lxh2,value=1001
+2020-07-03 15:11:40,418 DEBUG (StringRedisController.java:42)- 访问get:key=lxh2
+2020-07-03 15:11:47,202 DEBUG (StringRedisController.java:42)- 访问get:key=lxh2
+2020-07-03 15:13:22,830 DEBUG (StringRedisController.java:35)- 访问set:key=lxh2,value=125478d
+2020-07-03 15:13:34,788 DEBUG (StringRedisController.java:42)- 访问get:key=lxh2
+2020-07-03 15:13:40,862 DEBUG (StringRedisController.java:42)- 访问get:key=lxh2
+2020-07-03 15:14:10,492 DEBUG (ObjectRedisController.java:37)- 访问setPerson:id=2,name=lxh2,age=2
+2020-07-03 15:18:09,356 DEBUG (ObjectRedisController.java:37)- 访问setPerson:id=2,name=lxh2,age=2
+2020-07-03 15:18:14,894 DEBUG (StringRedisController.java:42)- 访问get:key=lxh2
+2020-07-03 15:20:29,022 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on DESKTOP-HEVKOGR with PID 25280 (D:\projet\demoredis\target\classes started by 123 in D:\projet\demoredis)
+2020-07-03 15:20:29,027 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-03 15:20:29,028 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-07-03 15:20:33,253 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 4.946 seconds (JVM running for 7.322)
+2020-07-03 15:21:05,910 DEBUG (ObjectRedisController.java:19)- 访问setPerson:id=2,name=lxh2,age=2
